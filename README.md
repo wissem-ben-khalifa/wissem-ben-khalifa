@@ -1,6 +1,6 @@
 <div align="center">
 
-# WISSEM BEN KHALIFA
+[![Profile Views](https://komarev.com/ghpvc/?username=wissem-ben-khalifa&style=for-the-badge&color=blueviolet)](https://github.com/wissem-ben-khalifa)
 
 <a href="mailto:wissembenkalifa456@gmail.com">
   <img src="https://img.shields.io/badge/Email-wissembenkalifa456%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>

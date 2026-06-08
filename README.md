@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=2000&center=true&vCenter=true&width=1000&height=80&lines=Wissem+Ben+Khalifa;Data+Engineering+Student;Building+AI+Systems;Designing+Data+Pipelines;Kafka+%7C+Airflow+%7C+Spark;Future+Data+Engineer" alt="Typing SVG" />
+# WISSEM BEN KHALIFA
 <a href="mailto:wissembenkalifa456@gmail.com">
   <img src="https://img.shields.io/badge/Email-wissembenkalifa456%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>

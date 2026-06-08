@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Wissem Ben Khalifa
+#  Hey, I'm Wissem Ben Khalifa
 
 ### Data & AI Engineering Student | Building Intelligent Data Systems
 

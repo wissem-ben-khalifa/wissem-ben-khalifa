@@ -1,175 +1,187 @@
-#  Hey, I'm Wissem Ben Khalifa
+<div align="center">
 
-### Data & AI Engineering Student | Building Intelligent Data Systems
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=2000&center=true&vCenter=true&width=1000&height=80&lines=Wissem+Ben+Khalifa;Data+Engineering+Student;Building+AI+Systems;Designing+Data+Pipelines;Kafka+%7C+Airflow+%7C+Spark;Future+Data+Engineer" alt="Typing SVG" />
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDk2YzN0OXF6eWRqYXF0cTZhZ2l1eXFnMnF4eW5mN3V5ZnA0bDdrZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+</div>
 
-- Passionate about transforming raw data into intelligent systems.
+<div align="center">
 
-- Data Engineering Student at the Faculty of Sciences of Sfax
+[![Profile Views](https://komarev.com/ghpvc/?username=wissem-ben-khalifa&style=for-the-badge&color=blueviolet)](https://github.com/wissem-ben-khalifa)
 
-- Interested in:
+</div>
 
-- Data Engineering
+---
+
+```diff
++ STATUS
+```
+
+```yaml
+Name: Wissem Ben Khalifa
+Location: Tunisia
+Education: Data Engineering Student
+Focus: Data Engineering + Artificial Intelligence
+Current Goal: Building Production-Ready AI Systems
+```
+
+---
+
+```diff
++ ABOUT ME
+```
+
+I am a Data & AI Engineering student passionate about designing scalable data platforms, intelligent systems, and modern data architectures.
+
+My interests revolve around:
+
+- Real-Time Data Processing
+- Distributed Systems
+- Data Pipelines
 - Artificial Intelligence
 - Machine Learning
-- MLOps
-- Distributed Systems
+- LLM Applications
 - Data Observability
-- RAG & LLM Applications
+- Cloud Technologies
+
+I enjoy transforming raw data into reliable, scalable, and intelligent systems capable of supporting real-world decision-making.
 
 ---
 
-##  About Me
+```diff
++ TECH STACK
+```
 
-I enjoy designing systems that process, monitor, analyze and learn from data at scale.
+<div align="center">
 
-My focus is not only on training AI models but also on building the complete infrastructure around them:
+### Languages
 
-✔ Data Pipelines
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,sql" />
 
-✔ Real-Time Streaming
+### Data Engineering
 
-✔ Data Quality Monitoring
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker" />
 
-✔ ETL Workflows
+<p>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL%20Pipelines-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Warehousing-4B32C3?style=for-the-badge"/>
+</p>
 
-✔ AI Applications
+### Artificial Intelligence
 
-✔ Cloud Analytics
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LoRA-E11D48?style=for-the-badge"/>
+</p>
 
-✔ Data Warehousing
+### Backend
 
-Currently exploring:
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
 
-- Apache Kafka
-- Apache Airflow
-- PySpark
-- Data Observability
-- RAG Architectures
-- MLOps Workflows
-- Distributed Data Systems
+### Cloud & Tools
 
----
+<img src="https://skillicons.dev/icons?i=azure,gcp,linux,git,docker" />
 
-#  Tech Stack
-
-## Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## Data Engineering
-
-![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apache-kafka)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge)
+</div>
 
 ---
 
-## Artificial Intelligence
+```diff
++ CURRENTLY LEARNING
+```
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge)
-
----
-
-## Backend & DevOps
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+```text
+███████████████████░░░░ Kafka Architecture
+██████████████████░░░░░ Distributed Systems
+█████████████████░░░░░░ Apache Spark
+███████████████████░░░░ Data Observability
+██████████████████░░░░░ LLM Engineering
+```
 
 ---
 
-#  Featured Projects
+```diff
++ ENGINEERING INTERESTS
+```
 
-## SentinelFlow
-AI-Powered Data Observability Platform
+```text
+Data Engineering
+├── ETL Pipelines
+├── Streaming Systems
+├── Apache Kafka
+├── Apache Airflow
+├── Data Warehouses
+└── Data Quality Monitoring
 
-- Real-time pipeline monitoring
-- Data quality validation
-- Drift detection
-- Anomaly detection
-- Kafka + Airflow architecture
-- Grafana dashboards
+Artificial Intelligence
+├── Machine Learning
+├── Deep Learning
+├── NLP
+├── RAG Systems
+├── LLM Fine-Tuning
+└── AI Agents
 
----
-
-## AI Test Case Generator
-
-RAG-powered platform that automatically generates software test cases from documentation.
-
-- LLM-powered analysis
-- Semantic retrieval
-- Automated QA workflow
-
----
-
-## Voice Emotion Recognition
-
-Deep Learning system capable of recognizing emotions from voice signals in real time.
-
-- Audio Processing
-- TensorFlow
-- NLP
-- Emotion Classification
+Software Engineering
+├── Backend Development
+├── APIs
+├── Cloud Infrastructure
+└── Distributed Architectures
+```
 
 ---
 
-## Fake News Data Warehouse
+```diff
++ GITHUB ANALYTICS
+```
 
-End-to-end Azure Data Engineering project.
+<div align="center">
 
-- ETL Pipelines
-- Data Warehouse
-- Power BI Dashboards
-- Analytics & Reporting
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wissem-ben-khalifa&show_icons=true&theme=tokyonight&hide_border=true"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wissem-ben-khalifa&layout=compact&theme=tokyonight&hide_border=true"/>
 
-#  Certifications
-
-🏆 Microsoft AI Skills Challenge
-
-🏆 Google Cloud Data Engineering Path
-
-🏆 Kaggle Machine Learning Certification
-
-🏆 Apache Airflow Data Pipelines
-
-🏆 Advanced SQL for Data Engineering
+</div>
 
 ---
 
-# 📈 GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wissem-ben-khalifa&show_icons=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wissem-ben-khalifa&theme=tokyo-night&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wissem-ben-khalifa&layout=compact)
-
----
-
-#  Connect With Me
-
-📧 Email: wissembenkalifa456@gmail.com
-
-💼 LinkedIn: linkedin.com/in/wissem-ben-khalifa
-
-🐙 GitHub: github.com/wissem-ben-khalifa
+</div>
 
 ---
 
-### "Turning Data Into Decisions, Systems Into Products, and Ideas Into Reality."
+```diff
++ CONNECT
+```
+
+<div align="center">
+
+<a href="https://github.com/wissem-ben-khalifa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/wissem-ben-khalifa">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:wissembenkalifa456@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building the next generation of Data & AI Systems
+
+</div>

@@ -1,10 +1,10 @@
 <div align="center">
 
 # WISSEM BEN KHALIFA
+
 <a href="mailto:wissembenkalifa456@gmail.com">
   <img src="https://img.shields.io/badge/Email-wissembenkalifa456%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/wissem-ben-khalifa-b05996349/">
   <img src="https://img.shields.io/badge/LinkedIn-Wissem%20Ben%20Khalifa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -40,23 +40,19 @@ I like turning raw data into production-ready intelligence.
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,sql" />
 
-### Data Engineering
+### Data Engineering & Infrastructure
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,linux,git" />
 
-<img src="https://img.shields.io/badge/Apache%20Kafka-Streaming-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Airflow-Orchestration-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Spark-Big%20Data-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/Apache%20Kafka-Streaming-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Airflow-Orchestration-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Spark-Big%20Data-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
 ### AI / ML
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG%20Systems-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-9333EA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/RAG%20Systems-6D28D9?style=for-the-badge"/> <img src="https://img.shields.io/badge/LLMs-9333EA?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge"/>
 
-### Backend
+### Backend & Frontend
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react" />
 
 ### Cloud
@@ -82,7 +78,6 @@ I like turning raw data into production-ready intelligence.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=wissem-ben-khalifa&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wissem-ben-khalifa&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
@@ -106,11 +101,9 @@ I like turning raw data into production-ready intelligence.
 <a href="mailto:wissembenkalifa456@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/wissem-ben-khalifa-b05996349/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/wissem-ben-khalifa">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
